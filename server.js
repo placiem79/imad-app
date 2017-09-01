@@ -20,7 +20,7 @@ var articles= {
     articletwo: {title: 'Article two Placid Rodrigues',
   heading: 'Article two',
   date: 'Aug, 28th 2016',
-  content: `<p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is           the content for my new article   This is the content for my new article
+  content: `<p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article
             </p> 
             <p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article
             </p>
