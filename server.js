@@ -16,10 +16,10 @@ var articles= {
             `}
      };
 
-var articleone = {
-  title: 'Article One Placid Rodrigues',
+var articletwo = {
+  title: 'Article two Placid Rodrigues',
   heading: 'Article one',
-  date: 'Aug, 25th 2016',
+  date: 'Aug, 28th 2016',
   content: `<p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is           the content for my new article   This is the content for my new article
             </p> 
             <p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article
