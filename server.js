@@ -7,18 +7,14 @@ app.use(morgan('combined'));
 
 var articles= {
     
-    articleone: {title: 'Article One Placid Rodrigues',
+  articleone: {title: 'Article One Placid Rodrigues',
   heading: 'Article one',
   date: 'Aug, 25th 2016',
-  content: `<p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is           the content for my new article   This is the content for my new article
-            </p> 
-            <p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article
-            </p>
-            <p>This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article
-            </p>
+  content: `<p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This            isthe content for my new article   This is the content for my new article </p> 
+            <p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article </p>
+            <p>This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article </p>
             `}
-        
-};
+     };
 
 var articleone = {
   title: 'Article One Placid Rodrigues',
