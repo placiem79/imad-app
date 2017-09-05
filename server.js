@@ -14,9 +14,9 @@ var articles= {
             <p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article </p>
             <p>This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article </p>
             `}
-     };
+    
 
-var articletwo = {
+articletwo = {
   title: 'Article two Placid Rodrigues',
   heading: 'Article one',
   date: 'Aug, 28th 2016',
@@ -25,7 +25,7 @@ var articletwo = {
             <p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article
             </p>
             <p>This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article
-            </p>`
+            </p>}
  };
 
 function createTemplate (data) {
