@@ -17,20 +17,7 @@ var articles= {
             <p>This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article
             </p>
             `}
-    articletwo: {title: 'Article two Placid Rodrigues',
-  heading: 'Article two',
-  date: 'Aug, 28th 2016',
-  content: `<p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article
-            </p> 
-            <p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is the content for my new article   This is the content for my new article
-            </p>
-           `}
-    articlethree: {title: 'Article three Placid Rodrigues',
-  heading: 'Article three',
-  date: 'Aug, 25th 2016',
-  content: `<p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is           the content for my new article   This is the content for my new article
-            </p> 
-           `}
+        
 };
 
 var articleone = {
