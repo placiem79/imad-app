@@ -16,9 +16,9 @@ var articles= {
             `}
     
 
-articletwo = {
+articletwo: {
   title: 'Article two Placid Rodrigues',
-  heading: 'Article one',
+  heading: 'Article Two',
   date: 'Aug, 28th 2016',
   content: `<p> This is the content for my new article  This is the content for my new article   This is the content for my new article   This is           the content for my new article   This is the content for my new article
             </p> 
